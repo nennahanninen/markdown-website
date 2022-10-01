@@ -1,16 +1,16 @@
 ---
 Title: Markdown Website
 layout: default
-filename: markdown-website.md
+filename: /docs/index.md
 ---
 
-![avocado-banner](img/avocado-banner.jpeg)
+![avocado-banner](/img/avocado-banner.jpeg)
 
 # Free choice extra task bundle E
 
-### Basic website created with Markdown language.
+### Basic website created with Markdown language and published on GitHub Pages.
 
-🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 
+🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑
 
 
 Course: Cloud Services
@@ -18,11 +18,9 @@ Course: Cloud Services
 Autumn 2022
 
 
+[![avocado-button](/img/avocado.png)](avocado-pasta-recipe.md) 
 
-[![avocado-button](img/avocado.png)](avocado-pasta-recipe.md)
-
-**Click the avocado!**
-
+## *Click the avocado!*
 
 
 ### Task requirements
