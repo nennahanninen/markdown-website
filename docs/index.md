@@ -1,5 +1,5 @@
 ---
-title: null
+title: Hello
 ---
 
 ![avocado-banner](img/avocado-banner.jpeg)
@@ -16,7 +16,7 @@ Autumn 2022
 
 &nbsp;
 
-[![avocado-button](img/avocado.png)](avocado-pasta-recipe.md) 
+[![avocado-button](img/avocado.png)](https://github.com/nennahanninen/markdown-website/blob/main/docs/avocado-pasta-recipe.md) 
 
 ## *Click the avocado!*
 
