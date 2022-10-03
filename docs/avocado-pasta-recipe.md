@@ -1,14 +1,8 @@
----
-title: Avocado Pasta Recipe
-layout: default
-filename: /docs/avocado-pasta-recipe.md
----
-
 # Here you go, a yummy recipe for you!
 
 ## Creamy Avocado Pasta (Vegan)
 
-![avocado](/img/avocado-pasta-pic.jpg)
+![avocado](../img/avocado-pasta-pic.jpg)
 
 
 ### INGREDIENTS
