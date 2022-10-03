@@ -1,3 +1,7 @@
+---
+title: null
+---
+
 ![avocado-banner](img/avocado-banner.jpeg)
 
 # Free choice extra task bundle E
