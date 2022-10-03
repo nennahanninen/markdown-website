@@ -12,7 +12,7 @@ Course: Cloud Services
 Autumn 2022
 
 
-[![avocado-button](../img/avocado.png)](/docs/avocado-pasta-recipe.html) 
+[![avocado-button](../img/avocado.png)](/docs/avocado-pasta-recipe.md) 
 
 ## *Click the avocado!*
 
