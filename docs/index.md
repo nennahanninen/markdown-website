@@ -14,6 +14,10 @@ Autumn 2022
 
 [![avocado-button](img/avocado.png)](avocado-pasta-recipe.md) 
 
+[another-avocado-button](avocado-pasta-recipe.md)
+
+[[avocado-button](img/avocado.png)](avocado-pasta-recipe.md) 
+
 ## *Click the avocado!*
 
 &nbsp;
