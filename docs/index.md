@@ -4,20 +4,19 @@
 
 ### Basic website created with Markdown language and published on GitHub Pages.  
 
-🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑  
-
+🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 
 
 Course: Cloud Services
 
-Autumn 2022  
+Autumn 2022
+
+&nbsp;
 
 [![avocado-button](img/avocado.png)](avocado-pasta-recipe.md) 
 
 ## *Click the avocado!*
 
-"\
-
-"
+&nbsp;
 
 ### Task requirements
 > 
