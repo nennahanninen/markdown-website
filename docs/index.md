@@ -7,16 +7,13 @@
 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑
 
 Course: Cloud Services
+
 Autumn 2022
 
 
 &nbsp;
 
-[![avocado-button](img/avocado.png)](avocado-pasta-recipe.md) 
-
-[another-avocado-button](avocado-pasta-recipe.md)
-
-[[avocado-button](img/avocado.png)](avocado-pasta-recipe.md) 
+[![avocado-button](img/avocado.png)](avocado-pasta-recipe)
 
 ## *Click the avocado!*
 
