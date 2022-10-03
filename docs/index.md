@@ -1,4 +1,4 @@
-![avocado-banner](img/avocado-banner.jpeg)
+![avocado-banner](markdown-website/img/avocado-banner.jpeg)
 
 # Free choice extra task bundle E
 
@@ -12,7 +12,7 @@ Course: Cloud Services
 Autumn 2022
 
 
-[![avocado-button](./img/avocado.png)](/docs/avocado-pasta-recipe) 
+[![avocado-button](../img/avocado.png)](docs/avocado-pasta-recipe.md) 
 
 ## *Click the avocado!*
 
