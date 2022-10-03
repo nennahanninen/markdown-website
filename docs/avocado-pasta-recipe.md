@@ -2,7 +2,7 @@
 
 ## Creamy Avocado Pasta (Vegan)
 
-![avocado](../img/avocado-pasta-pic.jpg)
+![avocado](img/avocado-pasta-pic.jpg)
 
 
 ### INGREDIENTS
