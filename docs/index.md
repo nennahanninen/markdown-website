@@ -2,20 +2,18 @@
 
 # Free choice extra task bundle E
 
-### Basic website created with Markdown language and published on GitHub Pages.
+### Basic website created with Markdown language and published on GitHub Pages.  
 
-🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑
+🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑 🥑  
 
 
 Course: Cloud Services
 
-Autumn 2022
-
+Autumn 2022  
 
 [![avocado-button](img/avocado.png)](avocado-pasta-recipe.md) 
 
-## *Click the avocado!*
-
+## *Click the avocado!*  
 
 ### Task requirements
 > 
@@ -25,6 +23,6 @@ Autumn 2022
 > - Write the Github page address to the learning diary so that your peer reviewers can verify it easily
 > - Keep the pages available until you have received your course grade
 >
->
+>  
 
 ### See this page on **[GitHub](https://github.com/nennahanninen/markdown-website.git)** !
